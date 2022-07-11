@@ -23,9 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![Mobile](design/screenshot-mobile.png)
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://glitch.com/edit/#!/qr-code-comp)
-- Live Site URL: [Add live site URL here](https://qr-code-comp.glitch.me/)
+- Live Site URL: [Github Pages](https://ivaberiashvili.github.io/qr-code-component/)
 
 ## My process
 This is my first front-end project using HTML and CSS.
@@ -84,7 +82,5 @@ In my case, my next project is NFT card (which I'll link here after I finish tha
 
 ## Author
 - [Iva](https://github.com/ivaberiashvili)
-
-## Acknowledgments
 
 
