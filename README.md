@@ -72,7 +72,7 @@ This was something new to me and I thought that it would work as "layers" and "l
 
 This is considered as an easy cake to start working with HTML & CSS - easy enough to understand how different components relate to each other.
 Logical and effective next steps would be to create other similar project with more complexity - adding more elements and functionality.
-In my case, my next project is NFT card (which I'll link here after I finish that).
+In my case, [my next project is NFT card](https://github.com/ivaberiashvili/nft-preview-card-component).
 
 #
 ### Useful resources
